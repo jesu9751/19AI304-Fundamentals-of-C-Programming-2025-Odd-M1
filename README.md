@@ -1,7 +1,7 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
 # IAPR-1- Module 1 - FoC
-# NAME  : Kevin P
-# REGNO : 212224040159
+# NAME  : Jesu Joyal J
+# REGNO : 212225040154
 
 ## 1. Implementation of basic C programs using Literals,Consonants, Variables, Data types.
 ## 2. Implementation of different categories of operators.
